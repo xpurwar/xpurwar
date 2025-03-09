@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ananya Purwar
+- ✨ I am a junior computer science major at Harvey Mudd College
 - 👀 I’m interested in backend development, AI/ML, ethical coding
 - 🌱 I’m currently learning deep learning and neural networks
 - 💞️ I’m looking to collaborate on exciting projects
