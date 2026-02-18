@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Ananya Purwar
-- ✨ I am a junior computer science major at Harvey Mudd College, California
+- ✨ I am a senior computer science major at Harvey Mudd College, California
 - 👀 I’m interested in backend development, AI/ML, computer vision, AI/ML in healthcare
 - 🌱 I’m currently learning deep learning, neural networks, reinforcement learning
 - 💞️ I’m looking to collaborate on exciting projects and anything biotech related
 - 📫 How to reach me: email me! purwar.ananya4@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love cricket
+- ⚡ Fun fact: I am learning how to skateboard!
 
 
 ## 🌐 Socials:
